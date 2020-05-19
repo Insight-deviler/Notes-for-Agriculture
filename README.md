@@ -27,7 +27,7 @@ This app is owned and managed by Sarath S
 
 Icons by Icons8. website: www.icons8.com
 
-Credit as well as criticism should be given to the developer if you implement this app. The developer may not be responsible
+Credit as well as criticism should be given to the developer if you implement this app in your project. The developer may not be responsible
 for all the criticism.
 
 

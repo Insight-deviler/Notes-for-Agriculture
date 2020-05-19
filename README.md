@@ -11,7 +11,7 @@ The end user can post questions and answer relevant only to the Agriculture.
 If found guilty in abusing the app the account or the user can be barred from using the app.
 The Question and Answer posted in the app belong the registered user who posted the question. I'm not responsible to Questions  other than  I post personally.
 I can see who post a question, if posted question is misleading the account can be disabled or even banned.
-Everyone hates ad but to support the cost of maintaining the server needs money so non intrusive ads are placed inside the app,Using of modded version is strictly prohibited. 
+Everyone hates ad but to support the cost of maintaining the server needs money so non intrusive ads are placed inside the app, ads are played only when the user click ad donate and ads button on exit dialog.  Using of modded version is strictly prohibited. 
 # Privacy policy 
 While you install my app I may collect certain details about your device which is made  anonymous before it reach my sever.
 If you register yourself with the email your email id is stored in the server as long as you want if you wish to delete your mail 
@@ -24,7 +24,11 @@ This Terms and Conditions, Privacy-Policy may subjected to change.
 # Credits
 This app is owned and managed by Sarath S
 (all rights are owned)
+
 Icons by Icons8. website: www.icons8.com
+
+Credit as well as criticism should be given to the developer if you implement this app. The developer may not be responsible
+for all the criticism.
 
 
 

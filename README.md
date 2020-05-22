@@ -25,7 +25,11 @@ This Terms and Conditions, Privacy-Policy may subjected to change.
 This app is owned and managed by Sarath S
 (all rights are owned)
 
+App logo or icon by Arun 
+
 Icons by Icons8. website: www.icons8.com
+
+Drawer image from Canva. Website: www.canva.com
 
 Credit as well as criticism should be given to the developer if you implement this app in your project. The developer may not be responsible
 for all the criticism.

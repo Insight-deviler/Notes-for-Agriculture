@@ -23,9 +23,9 @@ This Terms and Conditions, Privacy-Policy may subjected to change.
 
 # Credits
 This app is owned and managed by Sarath S
-(all rights are owned)
+(all rights are owned). Follow on Instagram: https://instagram.com/saraths10?igshid=1k67t1zh3m3sq
 
-App logo or icon by Arun 
+App logo or icon by Arun Kumar J (all rights reserved). Follow on Instagram: https://instagram.com/arunmastro_03?igshid=w7r9nkl2llef
 
 Icons by Icons8. website: www.icons8.com
 

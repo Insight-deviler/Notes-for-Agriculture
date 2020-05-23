@@ -12,6 +12,10 @@ If found guilty in abusing the app the account or the user can be barred from us
 The Question and Answer posted in the app belong the registered user who posted the question. I'm not responsible to Questions  other than  I post personally.
 I can see who post a question, if posted question is misleading the account can be disabled or even banned.
 Everyone hates ad but to support the cost of maintaining the server needs money so non intrusive ads are placed inside the app, ads are played only when the user click ad donate and ads button on exit dialog.  Using of modded version is strictly prohibited. 
+
+
+# Monitoring Content: Although we’re not obligated to monitor access to or use of the Service or Content or to review or edit any Content, we have the right to do so for the purpose of operating the Service, to ensure compliance with these Terms and to comply with applicable law or other legal requirements. We reserve the right, but are not obligated, to remove or disable access to any Content, including User Content, at any time and without notice, including, but not limited to, if we, at our sole discretion, consider any Content to be objectionable or in violation of these Terms. We have the right to investigate violations of these Terms or conduct that affects the Services. We may also consult and cooperate with law enforcement authorities to prosecute users who violate the law.
+
 # Privacy policy 
 While you install my app I may collect certain details about your device which is made  anonymous before it reach my sever.
 If you register yourself with the email your email id is stored in the server as long as you want if you wish to delete your mail 

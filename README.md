@@ -136,6 +136,8 @@ This app is owned and managed by Sarath S
 
 App logo or icon by Arun Kumar J (all rights reserved). Follow on Instagram: https://instagram.com/arunmastro_03?igshid=w7r9nkl2llef
 
+App and website auditor: Bharathkumar P
+
 Icons by Icons8. website: www.icons8.com
 
 Drawer image from Canva. Website: www.canva.com

@@ -18,6 +18,7 @@ The Services may contain links to other websites/applications and other websites
 
 # Service Terms and Conditions
 Last updated: 26-07-2020
+
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using our Mobile App or our GitHub page. Application (the "Service") operated by Insight Agri ("us", "we", or "our").
 Your access to and use of the Service is conditioned on your acceptance of and compliance with
 these Terms. These Terms apply to all visitors, users and others who access or use the Service.

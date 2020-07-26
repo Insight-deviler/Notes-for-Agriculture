@@ -4,6 +4,9 @@
 
 This app contains a repo of one words for Agriculture that may be useful for university exams or entrance exams. All the courses are given in separate so as for easy understanding. Note for uploading your question you must have an account and must have got necessary permission from the developers i.e., admin. This is to prevent abuse of the service. This Privacy Policy may be subjected to change please check the site periodically. 
 
+*If you use antivirus virus software for your Android device you may be warned because of the code obfuscation we done to prevent reverse engineering.
+Our app is available only on Github, Aptoide and Playstore(soon).
+
 # Monitoring of Content
 Extra care has been made while adding questions. We allow user to post questions only after verifying the user. We periodically check the quality of the content to help in preventing the false information. We can't always check all the questions, so we have given a feature in the app to inform us if you find any question is objectional or contains mistakes.
 ***your mail will not be shared with anyone
@@ -69,7 +72,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 # Children’s Privacy:
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In a case I discover that a child under 13 has provided me with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to take necessary actions.
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In a case We discover that a child under 13 has provided me with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that We will be able to take necessary actions.
 
 # Application Terms and Conditions:
 

@@ -1,5 +1,8 @@
 # Notes-for-Agriculture
-This app contains a repo of one words for Agriculture that may be useful for university exams or entrance exams. All the courses are given in separate so as for easy understanding. Note for uploading your question you must have an account and must have got necessary permission from the developers i.e., admin. This is to prevent abuse of the service. This Privacy Policy may be subjected to change please check the site periodically. ***Last updated on 26-07-2020.
+
+***Last updated on 26-07-2020.
+
+This app contains a repo of one words for Agriculture that may be useful for university exams or entrance exams. All the courses are given in separate so as for easy understanding. Note for uploading your question you must have an account and must have got necessary permission from the developers i.e., admin. This is to prevent abuse of the service. This Privacy Policy may be subjected to change please check the site periodically. 
 
 # Monitoring of Content
 Extra care has been made while adding questions. We allow user to post questions only after verifying the user. We periodically check the quality of the content to help in preventing the false information. We can't always check all the questions, so we have given a feature in the app to inform us if you find any question is objectional or contains mistakes.

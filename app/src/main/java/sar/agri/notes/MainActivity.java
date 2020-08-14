@@ -233,10 +233,10 @@ public class MainActivity extends AppCompatActivity {
 					user.edit().remove("password").commit();
 					user.edit().remove("login").commit();
 					admin_.edit().remove("admin_login").commit();
-					SketchwareUtil.showMessage(getApplicationContext(), "Logged out successfully!");
+					InsightUtil.showMessage(getApplicationContext(), "Logged out successfully!");
 				}
 				else {
-					SketchwareUtil.showMessage(getApplicationContext(), "Already logged out");
+					InsightUtil.showMessage(getApplicationContext(), "Already logged out");
 				}
 			}
 		});
@@ -405,7 +405,7 @@ public class MainActivity extends AppCompatActivity {
 			public void onErrorResponse(String _param1, String _param2) {
 				final String _tag = _param1;
 				final String _message = _param2;
-				SketchwareUtil.showMessage(getApplicationContext(), "No connection available");
+				InsightUtil.showMessage(getApplicationContext(), "No connection available");
 			}
 		};
 		
@@ -603,7 +603,7 @@ public class MainActivity extends AppCompatActivity {
 		
 		
 		if (rooted) {
-			SketchwareUtil.showMessage(getApplicationContext(), "This app can't run on rooted device");
+			InsightUtil.showMessage(getApplicationContext(), "This app can't run on rooted device");
 			finishAffinity();
 			int pid = android.os.Process.myPid();
 			android.os.Process.killProcess(pid); 
@@ -644,7 +644,7 @@ public class MainActivity extends AppCompatActivity {
 						upload.create().show();
 					}
 					else {
-						SketchwareUtil.showMessage(getApplicationContext(), "Permission denied");
+						InsightUtil.showMessage(getApplicationContext(), "Permission denied");
 					}
 				}
 				

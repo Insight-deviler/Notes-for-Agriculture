@@ -147,7 +147,7 @@ public class LoginPageActivity extends AppCompatActivity {
 					user.edit().putString("password", edittext2.getText().toString()).commit();
 				}
 				else {
-					SketchwareUtil.showMessage(getApplicationContext(), "Invalid Email or Password");
+					InsightUtil.showMessage(getApplicationContext(), "Invalid Email or Password");
 				}
 				_FadeOut(button1, 50);
 			}
@@ -297,7 +297,7 @@ public class LoginPageActivity extends AppCompatActivity {
 					
 					
 					if (emailVerified) {
-						SketchwareUtil.showMessage(getApplicationContext(), "Login Successful!");
+						InsightUtil.showMessage(getApplicationContext(), "Login Successful!");
 						user.edit().putString("login", "success").commit();
 						user.edit().putString("uid", FirebaseAuth.getInstance().getCurrentUser().getUid()).commit();
 						user.edit().putString("name", edittext1.getText().toString()).commit();
@@ -324,7 +324,7 @@ public class LoginPageActivity extends AppCompatActivity {
 					user.edit().putString("login", "").commit();
 					user.edit().putString("uid", "").commit();
 					user.edit().putString("name", "").commit();
-					SketchwareUtil.showMessage(getApplicationContext(), _errorMessage);
+					InsightUtil.showMessage(getApplicationContext(), _errorMessage);
 				}
 			}
 		};

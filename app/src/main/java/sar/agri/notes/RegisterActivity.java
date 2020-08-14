@@ -127,7 +127,7 @@ public class RegisterActivity extends AppCompatActivity {
 					fauth.createUserWithEmailAndPassword(edittext1.getText().toString(), edittext2.getText().toString()).addOnCompleteListener(RegisterActivity.this, _fauth_create_user_listener);
 				}
 				else {
-					InsightUtil.showMessage(getApplicationContext(), "Invalid User name or Email or Password");
+					SketchwareUtil.showMessage(getApplicationContext(), "Invalid User name or Email or Password");
 				}
 				_FadeOut(button1, 50);
 			}
@@ -256,12 +256,12 @@ public class RegisterActivity extends AppCompatActivity {
 								verify.create().show();
 								
 							} else {
-								InsightUtil.showMessage(getApplicationContext(), "Error sending email");
+								SketchwareUtil.showMessage(getApplicationContext(), "Error sending email");
 							} 
 						}});
 				}
 				else {
-					InsightUtil.showMessage(getApplicationContext(), _errorMessage);
+					SketchwareUtil.showMessage(getApplicationContext(), _errorMessage);
 				}
 			}
 		};

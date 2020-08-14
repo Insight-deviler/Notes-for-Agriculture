@@ -87,7 +87,7 @@ public class ForgotPasswordActivity extends AppCompatActivity {
 					fauth.sendPasswordResetEmail(edittext1.getText().toString()).addOnCompleteListener(_fauth_reset_password_listener);
 				}
 				else {
-					SketchwareUtil.showMessage(getApplicationContext(), "Enter valid Email ID");
+					InsightUtil.showMessage(getApplicationContext(), "Enter valid Email ID");
 				}
 				_FadeOut(button1, 50);
 			}
@@ -179,11 +179,11 @@ public class ForgotPasswordActivity extends AppCompatActivity {
 			public void onComplete(Task<Void> _param1) {
 				final boolean _success = _param1.isSuccessful();
 				if (_success) {
-					SketchwareUtil.showMessage(getApplicationContext(), "Reset Link Sent");
+					InsightUtil.showMessage(getApplicationContext(), "Reset Link Sent");
 					finish();
 				}
 				else {
-					SketchwareUtil.showMessage(getApplicationContext(), "Error ");
+					InsightUtil.showMessage(getApplicationContext(), "Error ");
 				}
 			}
 		};

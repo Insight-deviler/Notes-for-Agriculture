@@ -3,6 +3,8 @@
 ***Last updated on 26-07-2020.
 ***Recent update on 13-08-2020.
 
+Download the app from playstore: https://play.google.com/store/apps/details?id=sar.agri.notes
+
 This app contains a repo of one words for Agriculture that may be useful for university exams or entrance exams. All the courses are given in separate so as for easy understanding. Note for uploading your question you must have an account and must have got necessary permission from the developers i.e., admin. This is to prevent abuse of the service. This Privacy Policy may be subjected to change please check the site periodically. 
 
 *If you use antivirus virus software for your Android device you may be warned because of the code obfuscation we done to prevent reverse engineering.

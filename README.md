@@ -1,7 +1,7 @@
 # Notes-for-Agriculture
 
-***Last updated on 26-07-2020.
-***Recent update on 13-08-2020.
+***Last updated on 13-08-2020.
+***Recent update on 10-09-2020.
 
 Download the app from playstore: https://play.google.com/store/apps/details?id=sar.agri.notes
 
@@ -11,7 +11,7 @@ This app contains a repo of one words for Agriculture that may be useful for uni
 Our app is available only on Github, Aptoide and Playstore.
 
 # Open Source Licenses
-Even though the app is open source, other developers must inform me before developing your own version of this open sourced app. And you should not ever decompile the original app which is made available in the GitHub, Third-party app store or Google play store for getting the Firebase api keys. Only the app is made open source and not the server side. If there is any doubt about this licensing and app you may contact me through mail insightagri10@gmail.com
+Even though the app is open source, that here actually mean you can only check the app code for any vulnerability or check why we require certain permissions and what data we collect and not develop your own versions. And you should not ever decompile the original app which is made available in the GitHub, Third-party app store or Google play store for getting the Firebase api keys. Only the app is made open source and not the server side. If there is any doubt about this licensing and app you may contact me through mail insightagri10@gmail.com
 
 # Monitoring of Content
 Extra care has been made while adding questions. We allow user to post questions only after verifying the user. We periodically check the quality of the content to help in preventing the false information. We can't always check all the questions, so we have given a feature in the app to inform us if you find any question is objectional or contains mistakes.
@@ -128,8 +128,6 @@ Icons by Icons8. website: www.icons8.com and  Flaticon. website: https://www.fla
 
 Drawer image from Canva. Website: www.canva.com
 
-Credit as well as criticism should be given to the developer if you implement this app in your project. The developer may not be responsible
-for all the criticism.
 
 
 

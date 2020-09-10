@@ -14,7 +14,7 @@ Our app is available only on Github, Aptoide and Playstore.
 Even though the app is open source, that here actually mean you can only check the app code for any vulnerability or check why we require certain permissions and what data we collect and not develop your own versions. And you should not ever decompile the original app which is made available in the GitHub, Third-party app store or Google play store for getting the Firebase api keys. Only the app is made open source and not the server side. If there is any doubt about this licensing and app you may contact me through mail insightagri10@gmail.com
 
 # Monitoring of Content
-Extra care has been made while adding questions. We allow user to post questions only after verifying the user. We periodically check the quality of the content to help in preventing the false information. We can't always check all the questions, so we have given a feature in the app to inform us if you find any question is objectional or contains mistakes.
+With our latest version the user cannot directly post any questions to the app. We check each and every questions the users post and permit only questions which we verified and authenticated it. We periodically check the quality of the content to help in preventing the outdated values. We can't always check all the questions, so we have given a feature in the app to inform us if you find any question is objectional or contains mistakes.
 ***your mail will not be shared with anyone
 
 # Service Privacy Policy

@@ -16,6 +16,7 @@ Use the following method to fetch the data from the link provided, as of now we 
   >You can also use request network component for fetching the data
 
           ```
+	  
               new BackTask().execute (link);
 
               }
@@ -76,17 +77,18 @@ Use the following method to fetch the data from the link provided, as of now we 
               listview1.setAdapter(new Listview1Adapter(maplist));
               ((BaseAdapter)listview1.getAdapter()).notifyDataSetChanged();
               }
+	  ```
           
   
   ### Fathers in Agriculture:
   
   For listview OnBindCustomView assign two textview as mentioned below
   
-  ```
+  		```
   
  		textview1.setText(maplist.get((int)_position).get("subject").toString());
 		textview2.setText(maplist.get((int)_position).get("father").toString());
-  ```
+ 		```
  
  
  The JSON structure is 

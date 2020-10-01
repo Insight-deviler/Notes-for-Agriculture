@@ -13,9 +13,10 @@ Just copy the above mentioned link and place it in the place of _link_
 Use the following method to fetch the data from the link provided, as of now we are providing only for Android:
   >Just copy and paste, if you find alternate method don't hesitate to tell us!
   >We have used Async task for fetching the data
+  >You can also use request network component for fetching the data
 
           
-                new BackTask().execute (link);
+              new BackTask().execute (link);
 
               }
 
@@ -77,16 +78,15 @@ Use the following method to fetch the data from the link provided, as of now we 
               }
 
           
-  >You can also use request network component for fetching the data
   
   ### Fathers in Agriculture:
   
   For listview OnBindCustomView assign two textview as mentioned below
   
-      textview1.setText(maplist.get((int)_position).get("subject").toString());
-			textview2.setText(maplist.get((int)_position).get("father").toString());
+ 		textview1.setText(maplist.get((int)_position).get("subject").toString());
+		textview2.setText(maplist.get((int)_position).get("father").toString());
  
- This will fetch data like this
+ The JSON structure is 
  
       [
          {
@@ -94,3 +94,38 @@ Use the following method to fetch the data from the link provided, as of now we 
            "father": "Pitro decrescenzi"
          }
       ]
+      
+ ### Institutes related to Agriculture in India
+ 
+ For listview OnBindCustomView assign two textview as mentioned below
+ 
+		textview1.setText(maplist.get((int)_position).get("institute").toString());
+		textview2.setText(maplist.get((int)_position).get("location").toString());
+ 
+ 
+ The JSON structure is
+ 
+	[
+	  {
+	    "institute": "Central tobacco research institute is situated at",
+	    "location": "Raja Mundri, AP (1947)"
+	  }
+	 ]
+ 
+ ### International Institutes related to Agriculture
+ 
+ For listview OnBindCustomView assign two textview as mentioned below
+ 
+		textview1.setText(maplist.get((int)_position).get("institute").toString());
+		textview2.setText(maplist.get((int)_position).get("location").toString());
+ 
+The JSON structure is
+ 
+	 [
+	  {
+	    "institute": "International Rice Research Institute (IRRI)",
+	    "location": "Manila, Philippines"
+	  }
+	 ]
+ 
+If you find difficulty in understanding contact us for guidance :v:

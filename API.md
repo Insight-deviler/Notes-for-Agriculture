@@ -76,7 +76,6 @@ Use the following method to fetch the data from the link provided, as of now we 
               listview1.setAdapter(new Listview1Adapter(maplist));
               ((BaseAdapter)listview1.getAdapter()).notifyDataSetChanged();
               }
-```
           
   
   ### Fathers in Agriculture:
@@ -84,9 +83,11 @@ Use the following method to fetch the data from the link provided, as of now we 
   For listview OnBindCustomView assign two textview as mentioned below
   
   ```
+  
  		textview1.setText(maplist.get((int)_position).get("subject").toString());
 		textview2.setText(maplist.get((int)_position).get("father").toString());
- ```
+  ```
+ 
  
  The JSON structure is 
  
@@ -108,13 +109,13 @@ Use the following method to fetch the data from the link provided, as of now we 
  
  The JSON structure is
  
- 	```[
+ 	[
 	  {
 	    "institute": "Central tobacco research institute is situated at",
 	    "location": "Raja Mundri, AP (1947)"
 	  }
-	 ]
-         ```
+	]
+        
 
  
  ### International Institutes related to Agriculture

@@ -1,9 +1,9 @@
 # Notes-for-Agriculture
 
-***Last updated on 13-08-2020.
-***Recent update on 10-09-2020.
+*Last updated on 13-08-2020.
+*Recent update on 10-09-2020.
 
-Download the app from playstore: https://play.google.com/store/apps/details?id=sar.agri.notes
+Download the app from [playstore](https://play.google.com/store/apps/details?id=sar.agri.notes)
 
 This app contains a repo of one words for Agriculture that may be useful for university exams or entrance exams. All the courses are given in separate so as for easy understanding. Note for uploading your question you must have an account and must have got necessary permission from the developers i.e., admin. This is to prevent abuse of the service. This Privacy Policy may be subjected to change please check the site periodically. 
 
@@ -15,7 +15,7 @@ Even though the app is open source, that here actually mean you can only check t
 
 # Monitoring of Content
 With our latest version the user cannot directly post any questions to the app. We check each and every questions the users post and permit only questions which we verified and authenticated it. We periodically check the quality of the content to help in preventing the outdated values. We can't always check all the questions, so we have given a feature in the app to inform us if you find any question is objectional or contains mistakes.
-***your mail will not be shared with anyone
+*your mail will not be shared with anyone
 
 # Service Privacy Policy
 Our privacy Policy is simple. We don't collect any information about you at any cost untill and unless required. When you contact us through the email, your mail id may be stored for some time and deleted when the id is no longer required.
@@ -23,7 +23,7 @@ We may include analytics from either Google or Facebook for better understanding
 Ads are integrated with the app so as to maintain the servers. So we have added admob and StartApp ads to our app.
 When you login in our app we store your email id for providing the service. You may also request us to delete your data through mail which is available in the app or by requesting us through Instagram. Once we delete your account only your mail id will be deleted and not the questions and answers you have uploaded in the app. 
 The Services may contain links to other websites/applications and other websites/applications may reference or link to our Services. These third-party services are not controlled by us. We encourage our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen or approve, and are not responsible for, the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.
-***Your mail id will not be used in anyway and will not be shared with anyone.
+*Your mail id will not be used in anyway and will not be shared with anyone.
 
 # Service Terms and Conditions
 Last updated: 26-07-2020
@@ -108,7 +108,7 @@ At some point, we may wish to update the app. The app is currently available on 
 
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
 
-***These terms and conditions are effective as of 26-07-2020.
+*These terms and conditions are effective as of 26-07-2020
 
 # Contact Us
 
@@ -116,17 +116,17 @@ If you have any questions or suggestions about my Terms and Conditions, do not h
 
 # Credits
 
-This app is made by Insight Agri (all rights are owned). Follow on Instagram: https://www.instagram.com/insightagri/ 
+This app is made by Insight Agri (all rights are owned). [Follow on Instagram](https://www.instagram.com/insightagri/)
 
-This app is owned and managed by Sarath S. Follow on Instagram: https://instagram.com/saraths10?igshid=1k67t1zh3m3sq
+This app is owned and managed by Sarath S. [Follow on Instagram](https://instagram.com/saraths10?igshid=1k67t1zh3m3sq)
 
-App logo or icon by Arun Kumar J (all rights reserved). Follow on Instagram: https://instagram.com/arunmastro_03?igshid=w7r9nkl2llef
+App logo or icon by Arun Kumar J (all rights reserved). [Follow on Instagram](https://instagram.com/arunmastro_03?igshid=w7r9nkl2llef)
 
-App and website auditor: Bharathkumar P. Follow on Instagram https://www.instagram.com/bharathprabha_/
+App and website auditor: Bharathkumar P. [Follow on Instagram](https://www.instagram.com/bharathprabha_/)
 
-Icons by Icons8. website: www.icons8.com and  Flaticon. website: https://www.flaticon.com/
+Icons by [Icons8](www.icons8.com) and  [Flaticon](https://www.flaticon.com/)
 
-Drawer image from Canva. Website: www.canva.com
+Drawer image from [Canva](www.canva.com)
 
 
 

@@ -8,7 +8,7 @@ Download the app from [playstore](https://play.google.com/store/apps/details?id=
 
 This app contains a repo of one words for Agriculture that may be useful for university exams or entrance exams. All the courses are given in separate so as for easy understanding. Note for uploading your question you must have an account and must have got necessary permission from the developers i.e., admin. This is to prevent abuse of the service. This Privacy Policy may be subjected to change please check the site periodically. 
 
-*If you use antivirus virus software for your Android device you may be warned because of the code obfuscation we done to prevent reverse engineering.
+*If you use antivirus software for your Android device you may be warned because of the code obfuscation we done to prevent reverse engineering.
 Our app is available only on Github, Aptoide and Playstore*
 
 # Open Source Licenses
@@ -22,7 +22,7 @@ With our latest version the user cannot directly post any questions to the app. 
 # Service Privacy Policy
 Our privacy Policy is simple. We don't collect any information about you at any cost untill and unless required. When you contact us through the email, your mail id may be stored for some time and deleted when the id is no longer required.
 We may include analytics from either Google or Facebook for better understanding of our app with the users.
-Ads are integrated with the app so as to maintain the servers. So we have added admob and StartApp ads to our app.
+Ads are integrated with the app so as to maintain the servers. So we have added Admob and Facebook ads to our app.
 When you login in our app we store your email id for providing the service. You may also request us to delete your data through mail which is available in the app or by requesting us through Instagram. Once we delete your account only your mail id will be deleted and not the questions and answers you have uploaded in the app. 
 The Services may contain links to other websites/applications and other websites/applications may reference or link to our Services. These third-party services are not controlled by us. We encourage our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen or approve, and are not responsible for, the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.
 
@@ -53,7 +53,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, limited to Emails alone. The information that we request will be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used to identify you.
 Reference to third party service providers used by the app are below:
-Firebase, Admob, FAcebook, StartApp SDKs               
+Firebase, Admob, Facebook.         
 
 # Log Data
 
@@ -96,7 +96,7 @@ The app does use third party services that declare their own Terms and Condition
 
 Terms and Conditions of third party service providers used by the app are bound to owners.
 
-Firebase, Admob, Facebook and StartApp SDKs               
+Firebase, Admob, Facebook              
 
 You should be aware that there are certain things that Insight Agri  will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Insight Agri  cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 

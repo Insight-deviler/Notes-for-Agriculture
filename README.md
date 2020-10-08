@@ -120,7 +120,7 @@ If you have any questions or suggestions about my Terms and Conditions, do not h
 
 # Credits
 
-This app is made by Insight Agri (all rights are owned). [Follow on Instagram](https://www.instagram.com/insightagri/)
+
 
 This app is owned and managed by Sarath S. [Follow on Instagram](https://instagram.com/saraths10?igshid=1k67t1zh3m3sq)
 

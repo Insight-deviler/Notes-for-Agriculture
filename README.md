@@ -1,8 +1,6 @@
 # Notes-for-Agriculture
 
-*Last updated on 13-08-2020*
-
-*Recent update on 10-09-2020*
+*Last updated on 18-10-2020*
 
 Download the app from [playstore](https://play.google.com/store/apps/details?id=sar.agri.notes)
 
@@ -30,9 +28,9 @@ The Services may contain links to other websites/applications and other websites
 
 # Service Terms and Conditions
 
-*Last updated: 26-07-2020*
+*Last updated: 18-10-2020*
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using our Mobile App or our GitHub page. Application (the "Service") operated by Insight Agri ("us", "we", or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using our Mobile App or our GitHub page. Application (the "Service") operated by Insight Deviler ("us", "we", or "our").
 Your access to and use of the Service is conditioned on your acceptance of and compliance with
 these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 By accessing or using the Service you agree to be bound by these Terms. If you disagree
@@ -43,7 +41,7 @@ We don't provide any warranties regarding the use of service.
 
 # Application Privacy Policy
 
-Insight Agri  built the Notes app as a Ad-supported app. This SERVICE is provided by Insight Agri  at no cost and is intended for use as is.
+Insight Deviler built the Notes app as a Ad-supported app. This SERVICE is provided by Insight Deviler  at no cost and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Notes unless otherwise defined in this Privacy Policy.
@@ -86,9 +84,9 @@ These Services do not address anyone under the age of 16. We do not knowingly co
 
 # Application Terms and Conditions
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app except from the source posted in the GitHub, and you may try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Insight Agri .
+By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app except from the source posted in the GitHub, and you may try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Insight Deviler .
 
-Insight Agri  is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+Insight Deviler  is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
 The Notes for Agriculturee app stores and processes personal data that you have provided to us (Your Email id you used to login), in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the miz app won’t work properly or at all.
 
@@ -98,15 +96,15 @@ Terms and Conditions of third party service providers used by the app are bound 
 
 Firebase, Admob, Facebook              
 
-You should be aware that there are certain things that Insight Agri  will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Insight Agri  cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+You should be aware that there are certain things that Insight Deviler  will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Insight Deviler  cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
 If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
-Along the same lines, Insight Agri  cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Insight Agri  cannot accept responsibility.
+Along the same lines, Insight Deviler  cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Insight Deviler  cannot accept responsibility.
 
-With respect to Insight Agri’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Insight Agri  accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+With respect to Insight Deviler’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Insight Deviler  accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
 
-At some point, we may wish to update the app. The app is currently available on Android – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Insight Agri  does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+At some point, we may wish to update the app. The app is currently available on Android – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Insight Deviler  does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
 # Changes to This Privacy Policy, Terms and Conditions
 
@@ -131,7 +129,6 @@ App and website auditor: Bharathkumar P. [Follow on Instagram](https://www.insta
 Icons by [Icons8](www.icons8.com) and  [Flaticon](https://www.flaticon.com/)
 
 Drawer image from [Canva](www.canva.com)
-
 
 
 
